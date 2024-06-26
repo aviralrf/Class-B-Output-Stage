@@ -1,4 +1,3 @@
-File consists of a class B output stage design on LTSpice 
 • Designed a switching mode class B output stage using both BJT and MOS technology and compared results
 
 • DC characterisitics , waveforms for large signal at input , effect of load resistance on output waveform
